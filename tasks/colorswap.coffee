@@ -53,7 +53,7 @@ module.exports = (grunt) ->
 			originalColors = []
 			colorObjects = []
 
-			# Loop through each regex, see if it matches a valid colour
+			# Loop through each regex, see if it matches a valid color
 			options.regexes.forEach (rgx) ->
 
 				# Loop through regex matches

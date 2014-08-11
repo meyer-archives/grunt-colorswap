@@ -11,7 +11,6 @@ module.exports.processInstructions = (instructions) ->
 
 	try
 		newHSL = new Chromath(matches[1]).toHSLArray()
-		# grunt.log.ok "newColor: #{newColor.toHexString()}"
 	catch e
 		throw "#{matches[1]} is not a valid color"
 
