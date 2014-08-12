@@ -20,5 +20,5 @@ module.exports.processInstructions = (instructions) ->
 # processColor recieves a Chromath object
 module.exports.processColor = (color) ->
 	newColor = new Chromath.desaturate(color, formula)
-	grunt.verbose.ok " - Desaturating #{color.toString()} --> #{newColor.toString()}"
+	grunt.verbose.write " --desaturate--> #{newColor.toString()}"
 	newColor

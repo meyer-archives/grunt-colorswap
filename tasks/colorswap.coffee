@@ -11,6 +11,9 @@
 module.exports = (grunt) ->
 	Chromath = require "chromath"
 
+	pad = (str, places, padWith=" ") ->
+		(Array(places+1).join(padWith) + str).slice(-places)
+
 	multiTask = ->
 		options = @options(
 			# TODO: Probably need to be a bit better about matching weird spaces
@@ -36,7 +39,7 @@ module.exports = (grunt) ->
 				filter = require "./filters/#{filterName}"
 				filter.processInstructions instructions
 
-				grunt.log.ok "Loaded filter `#{filterName}`"
+				grunt.verbose.ok "Loaded filter `#{filterName}` for `#{instructions}`"
 			catch e
 				grunt.log.warn "Can’t load filter `#{filterName}`: #{e}"
 				return
@@ -44,8 +47,8 @@ module.exports = (grunt) ->
 			todoList.push [filterName, filter]
 
 
-		@files.forEach (f) ->
-			grunt.log.ok "Processing `#{f.src}`"
+		@files.forEach (f, idx) =>
+			grunt.verbose.ok "Processing `#{f.src}` (#{idx+1}/#{@files.length})"
 
 			# Get the text contents of the file
 			fileSource = grunt.file.read f.src
@@ -75,6 +78,8 @@ module.exports = (grunt) ->
 			# Valid original colors
 			originalColors.forEach (targetString, idx) ->
 
+				grunt.verbose.write "  #{pad idx+1, originalColors.length.toString().length}/#{originalColors.length} #{colorObjects[idx].toString()}"
+
 				# Run each filter
 				todoList.forEach (m) ->
 					[filterName, filter] = m
@@ -87,14 +92,17 @@ module.exports = (grunt) ->
 						# 2CHAINZ
 						colorObjects[idx] = replacement
 						targetString = newTargetString
-
 					catch e
 						grunt.log.warn "Filter `#{options.instructions}` did not run:\n - #{e}"
 
+				grunt.verbose.writeln ""
+
 			grunt.file.write f.dest, fileSource
-			grunt.log.ok "File `#{f.dest}` created."
-			grunt.log.writeln()
+			grunt.verbose.ok "File `#{f.dest}` created."
+			grunt.verbose.writeln()
 			return
+
+		grunt.log.ok "Ran `#{instructionArray.join "`, `"}` on #{@files.length} file#{"s" unless @files.length == 1}"
 
 		return
 

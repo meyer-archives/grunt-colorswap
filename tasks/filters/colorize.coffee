@@ -19,5 +19,5 @@ module.exports.processInstructions = (instructions) ->
 # processColor recieves a Chromath object
 module.exports.processColor = (color) ->
 	newColor = new Chromath.hsl(newHSL[0], newHSL[1], color.l)
-	grunt.verbose.ok " - Colorizing #{color.toString()} --> #{newColor.toString()}"
+	grunt.verbose.write " --colorize--> #{newColor.toString()}"
 	newColor

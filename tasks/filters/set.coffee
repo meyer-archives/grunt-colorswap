@@ -30,12 +30,8 @@ module.exports.processInstructions = (instructions) ->
 
 # processColor recieves a Chromath object and an instruction string
 module.exports.processColor = (color) ->
-	if targetColor == "everything"
-		grunt.verbose.ok " - Replacing #{color.toString()} --> #{replacementColor.toString()} (everything)"
-		return replacementColor
-
-	if color.toHexString() == targetColor.toHexString()
-		grunt.verbose.ok " - Replacing #{color.toString()} --> #{replacementColor.toString()}"
+	if targetColor == "everything" || color.toHexString() == targetColor.toHexString()
+		grunt.verbose.write " --replace--> #{replacementColor.toString()}"
 		return replacementColor
 
 	if maxDiff > 0
@@ -43,11 +39,11 @@ module.exports.processColor = (color) ->
 		diff = colorDiff.compare(color.toHexString(), targetColor.toHexString(), "EuclideanDistance")
 
 		if diff < maxDiff
-			grunt.verbose.ok " - Replacing #{color.toString()} --> #{replacementColor.toString()} (diff #{diff.toFixed(3)} < #{maxDiff})"
+			grunt.verbose.write " --replace--> #{replacementColor.toString()} (diff #{diff.toFixed(3)} < #{maxDiff})"
 			return replacementColor
 		else
-			grunt.verbose.ok " - Ignoring #{color.toString()} (diff #{diff.toFixed(3)} > #{maxDiff})"
+			grunt.verbose.write " (ignoring, diff #{diff.toFixed(3)} > #{maxDiff})"
 			return color
 
-	grunt.verbose.ok " - Ignoring #{color.toString()}"
+	grunt.verbose.write " (ignoring #{color.toString()})"
 	return color
