@@ -7,8 +7,6 @@
 #
 "use strict"
 
-path = require "path"
-
 module.exports = (grunt) ->
 	demoFileObj = [{
 		expand: true

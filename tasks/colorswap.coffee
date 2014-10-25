@@ -12,7 +12,7 @@ module.exports = (grunt) ->
 	Chromath = require "chromath"
 
 	pad = (str, places, padWith=" ") ->
-		(Array(places+1).join(padWith) + str).slice(-places)
+		(new Array(places+1).join(padWith) + str).slice(-places)
 
 	multiTask = ->
 		options = @options(
@@ -37,6 +37,15 @@ module.exports = (grunt) ->
 
 			try
 				filter = require "./filters/#{filterName}"
+				unless typeof filter.processInstructions == "function"
+					throw "missing required method processInstructions"
+
+				if typeof filter.processColour == "function"
+					filter.processColor = filter.processColour
+
+				unless typeof filter.processColor == "function"
+					throw "missing required method processColor"
+
 				filter.processInstructions instructions
 
 				grunt.verbose.ok "Loaded filter `#{filterName}` for `#{instructions}`"
@@ -67,7 +76,7 @@ module.exports = (grunt) ->
 						originalColors.push match[1]
 						colorObjects.push color
 					catch e
-						grunt.log.warn "Regex matched an invalid color string (#{colorString})"
+						grunt.log.warn "Regex matched an invalid color string (#{match[1]})"
 
 				return
 
@@ -81,8 +90,7 @@ module.exports = (grunt) ->
 				grunt.verbose.write "  #{pad idx+1, originalColors.length.toString().length}/#{originalColors.length} #{colorObjects[idx].toString()}"
 
 				# Run each filter
-				todoList.forEach (m) ->
-					[filterName, filter] = m
+				todoList.forEach ([filterName, filter]) ->
 
 					try
 						replacement = filter.processColor(colorObjects[idx])
@@ -94,6 +102,8 @@ module.exports = (grunt) ->
 						targetString = newTargetString
 					catch e
 						grunt.log.warn "Filter `#{options.instructions}` did not run:\n - #{e}"
+
+					return
 
 				grunt.verbose.writeln ""
 

@@ -23,12 +23,11 @@ module.exports.processInstructions = (instructions) ->
 		grunt.log.warn "`#{matches[2]}` is not a valid color"
 
 	if matches[3] && targetColor != "everything"
-		grunt.log.warn "Warning: approximate color macthing is buggy, and the final format is likely to change. Proceed with caution!"
-		maxDiff = ~~matches[3]
+		grunt.log.warn "Warning: approximate color matching is buggy, and the final format is likely to change. Proceed with caution!"
+		maxDiff = ~~matches[3] # cast to int
 
 	true
 
-# processColor recieves a Chromath object and an instruction string
 module.exports.processColor = (color) ->
 	if targetColor == "everything" || color.toHexString() == targetColor.toHexString()
 		grunt.verbose.write " --replace--> #{replacementColor.toString()}"
