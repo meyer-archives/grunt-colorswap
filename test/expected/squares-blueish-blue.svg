@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0  "fill:#0000FF;">
+	<!ENTITY st1  "fill:#0000FF;">
+	<!ENTITY st2  "fill:#0000FF;">
+	<!ENTITY st3  "fill:#0000FF;">
+	<!ENTITY st4  "fill:#0000FF;">
+	<!ENTITY st5  "fill:#0000FF;">
+	<!ENTITY st6  "fill:#0000FF;">
+	<!ENTITY st7  "fill:#0000FF;">
+	<!ENTITY st8  "fill:#0000FF;">
+	<!ENTITY st9  "fill:#0000FF;">
+	<!ENTITY st10 "fill:#0000FF;">
+	<!ENTITY st11 "fill:#0000FF;">
+	<!ENTITY st12 "fill:#0000FF;">
+	<!ENTITY st13 "fill:#0000FF;">
+	<!ENTITY st14 "fill:#0000FF;">
+]>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="200px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+	<rect x="45"  y="45"  style="&st0;"  width="20" height="20"/>
+	<rect x="75"  y="45"  style="&st1;"  width="20" height="20"/>
+	<rect x="105" y="45"  style="&st2;"  width="20" height="20"/>
+	<rect x="135" y="45"  style="&st3;"  width="20" height="20"/>
+	<rect x="105" y="105" style="&st4;"  width="20" height="20"/>
+	<rect x="45"  y="75"  style="&st5;"  width="20" height="20"/>
+	<rect x="75"  y="75"  style="&st6;"  width="20" height="20"/>
+	<rect x="105" y="75"  style="&st7;"  width="20" height="20"/>
+	<rect x="135" y="75"  style="&st8;"  width="20" height="20"/>
+	<rect x="135" y="105" style="&st8;"  width="20" height="20"/>
+	<rect x="75"  y="105" style="&st9;"  width="20" height="20"/>
+	<rect x="45"  y="105" style="&st10;" width="20" height="20"/>
+	<rect x="105" y="135" style="&st11;" width="20" height="20"/>
+	<rect x="135" y="135" style="&st12;" width="20" height="20"/>
+	<rect x="75"  y="135" style="&st13;" width="20" height="20"/>
+	<rect x="45"  y="135" style="&st14;" width="20" height="20"/>
+</svg>

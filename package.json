@@ -30,9 +30,10 @@
   "devDependencies": {
     "chromath": "0.0.6",
     "color-difference": "^0.3.3",
-    "grunt-contrib-clean": "^0.5.0",
-    "grunt-contrib-jshint": "^0.9.2",
-    "grunt-contrib-nodeunit": "^0.3.3"
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1"
   },
   "peerDependencies": {
     "grunt": "~0.4.5"
