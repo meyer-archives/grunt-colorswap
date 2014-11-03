@@ -40,10 +40,20 @@ module.exports = (grunt) ->
 		clean:
 			tmp: ["tmp/"]
 
+		coffeelint:
+			taskAndFilters:
+				files: [{
+					src: ["tasks/**/*.coffee"]
+				}]
+			options:
+				configFile: "coffeelint.json"
+
 	grunt.loadTasks "tasks"
 	grunt.loadNpmTasks "grunt-contrib-clean"
 	grunt.loadNpmTasks "grunt-contrib-copy"
+	grunt.loadNpmTasks "grunt-coffeelint"
 
-	grunt.registerTask "default", ["clean", "copy", "colorswap"]
+	grunt.registerTask "default", ["coffeelint", "clean", "copy", "colorswap"]
+	grunt.registerTask "test", ["coffeelint", ]
 
 	return

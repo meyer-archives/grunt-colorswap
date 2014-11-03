@@ -6,7 +6,7 @@ Right now, **grunt-colorswap** works on hex and RGB color strings. If you read r
 
 ## Using grunt-colorswap
 
-I’d recommend checking out this project’s [Gruntfile][]. Sample Gruntfile:
+I’d recommend checking out this project’s [Gruntfile][]. Sample Gruntfile (in CoffeeScript, fight me):
 
 	module.exports = (grunt) ->
 
@@ -20,15 +20,15 @@ I’d recommend checking out this project’s [Gruntfile][]. Sample Gruntfile:
 
 		grunt.loadNpmTasks "grunt-colorswap"
 
-Running `grunt colorize` will colorize the specified SVG file with the color blue using the **colorize** filter.
+Running `grunt colorswap` will colorize the specified SVG file with the color blue using the **colorize** filter.
 
 Available filters can be found in [/tasks/filters][filters].
 
 ## Filters: the nitty gritty
 
-Filters have two required methods, `processInstructions` and `processColor`.
+Filters have two required methods, `init` and `processColor`.
 
-The first method, `processInstructions`, validates instruction strings, and has only one parameter: the instruction string. An error should be thrown if the filter is called (`set …`), but the instruction string is something the filter doesn’t understand (`set hungry to true`).
+The first method, `init`, validates instruction strings, and has only one parameter: the instruction string. An error should be thrown if the filter is called (`set …`), but the instruction string is something the filter doesn’t understand (`set hungry to true`).
 
 The second and last method, `processColor`, is what does the per-color manipulation. `processColor` receives one argument: a Chromath object representing the color to be modified. `processColor` is expected to return a Chromath object as well.
 

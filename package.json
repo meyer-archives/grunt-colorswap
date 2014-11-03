@@ -29,7 +29,9 @@
   },
   "devDependencies": {
     "chromath": "0.0.6",
+    "coffeelint": "^1.6.1",
     "color-difference": "^0.3.3",
+    "grunt-coffeelint": "0.0.13",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-copy": "^0.7.0",
     "grunt-contrib-jshint": "^0.10.0",

@@ -37,16 +37,16 @@ module.exports = (grunt) ->
 
 			try
 				filter = require "./filters/#{filterName}"
-				unless typeof filter.processInstructions == "function"
-					throw "missing required method processInstructions"
+				unless typeof filter.init == "function"
+					throw new Error "missing required method init"
 
 				if typeof filter.processColour == "function"
 					filter.processColor = filter.processColour
 
 				unless typeof filter.processColor == "function"
-					throw "missing required method processColor"
+					throw new Error "missing required method processColor"
 
-				filter.processInstructions instructions
+				filter.init instructions
 
 				grunt.verbose.ok "Loaded filter `#{filterName}` for `#{instructions}`"
 			catch e

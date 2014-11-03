@@ -8,10 +8,10 @@ targetColor = ""
 replacementColor = ""
 maxDiff = 0
 
-module.exports.processInstructions = (instructions) ->
+module.exports.init = (instructions) ->
 	# replace/set (COLOR) with/to (COLOR) ~(DEVIATION)%
 	unless matches = instructions.match(/^\S+ (\S+) (?:with|to) (\S+)(?: ~(\d?\d)%)?$/)
-		throw "Invalid instructions! Expected format: `replace/set COLOR with/to NEWCOLOR`"
+		throw new Error "Invalid instructions! Expected format: `replace/set COLOR with/to NEWCOLOR`"
 
 	if ~["*","all","everything"].indexOf matches[1]
 		targetColor = "everything"

@@ -5,15 +5,15 @@ grunt = require "grunt"
 
 formula = undefined
 
-module.exports.processInstructions = (instructions) ->
+module.exports.init = (instructions) ->
 	unless matches = instructions.match(/^\S+(?: using (\S+))?$/)
-		throw "Invalid instructions! Expected format `desaturate (optional formula: xarg or sun)`"
+		throw new Error "Invalid instructions! Expected format `desaturate (optional formula: xarg or sun)`"
 
 	try
 		formula = matches[2]
 		# grunt.log.ok "newColor: #{newColor.toHexString()}"
 	catch e
-		throw "#{matches[1]} is not a valid color"
+		throw new Error "#{matches[1]} is not a valid color"
 
 	true
 

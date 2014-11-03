@@ -5,14 +5,14 @@ grunt = require "grunt"
 
 newHSL = []
 
-module.exports.processInstructions = (instructions) ->
-	unless matches = instructions.match(/^\S+ (?:(?:to|with) )?(\S+)$/)
-		throw "Invalid instructions! Expected format `colorize COLOR`"
+module.exports.init = (instructions) ->
+	unless matches = instructions.match(/^\S+ (\S+)$/)
+		throw new Error "Invalid instructions! Expected format `colorize COLOR`"
 
 	try
 		newHSL = new Chromath(matches[1]).toHSLArray()
 	catch e
-		throw "#{matches[1]} is not a valid color"
+		throw new Error "#{matches[1]} is not a valid color"
 
 	true
 
