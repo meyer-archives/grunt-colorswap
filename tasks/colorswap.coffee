@@ -62,6 +62,8 @@ module.exports = (grunt) ->
 			# Get the text contents of the file
 			fileSource = grunt.file.read f.src
 
+			grunt.verbose.writeln()
+
 			originalColors = []
 			colorObjects = []
 
@@ -87,7 +89,8 @@ module.exports = (grunt) ->
 			# Valid original colors
 			originalColors.forEach (targetString, idx) ->
 
-				grunt.verbose.write "  #{pad idx+1, originalColors.length.toString().length}/#{originalColors.length} #{colorObjects[idx].toString()}"
+				originalColor = colorObjects[idx].toString()
+				grunt.verbose.ok "#{idx+1}/#{originalColors.length} -- #{originalColors[idx]}"
 
 				# Run each filter
 				todoList.forEach ([filterName, filter]) ->
@@ -95,9 +98,13 @@ module.exports = (grunt) ->
 					try
 						replacement = filter.processColor(colorObjects[idx])
 						newTargetString = replacement.toHexString()
-						fileSource = fileSource.replace(targetString, newTargetString)
 
-						# 2CHAINZ
+						if originalColor != newTargetString
+							fileSource = fileSource.replace(targetString, newTargetString)
+							grunt.verbose.writeln "#{filterName}: #{originalColor} ---> #{newTargetString}"
+						else
+							grunt.verbose.writeln "#{filterName}: Color unchanged."
+
 						colorObjects[idx] = replacement
 						targetString = newTargetString
 					catch e

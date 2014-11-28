@@ -18,6 +18,4 @@ module.exports.init = (instructions) ->
 	true
 
 module.exports.processColor = (color) ->
-	newColor = new Chromath.desaturate(color, formula)
-	grunt.verbose.write " --desaturate--> #{newColor.toString()}"
-	newColor
+	new Chromath.desaturate(color, formula)

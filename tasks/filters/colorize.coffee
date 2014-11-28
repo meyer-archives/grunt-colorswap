@@ -17,6 +17,4 @@ module.exports.init = (instructions) ->
 	true
 
 module.exports.processColor = (color) ->
-	newColor = new Chromath.hsl(newHSL[0], newHSL[1], color.l)
-	grunt.verbose.write " --colorize--> #{newColor.toString()}"
-	newColor
+	new Chromath.hsl(newHSL[0], newHSL[1], color.l)

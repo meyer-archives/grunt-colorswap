@@ -30,7 +30,6 @@ module.exports.init = (instructions) ->
 
 module.exports.processColor = (color) ->
 	if targetColor == "everything" || color.toHexString() == targetColor.toHexString()
-		grunt.verbose.write " --replace--> #{replacementColor.toString()}"
 		return replacementColor
 
 	if maxDiff > 0
@@ -38,11 +37,11 @@ module.exports.processColor = (color) ->
 		diff = colorDiff.compare(color.toHexString(), targetColor.toHexString(), "EuclideanDistance")
 
 		if diff < maxDiff
-			grunt.verbose.write " --replace--> #{replacementColor.toString()} (diff #{diff.toFixed(3)} < #{maxDiff})"
+			grunt.verbose.writeln "(diff #{diff.toFixed(3)} < #{maxDiff})"
 			return replacementColor
 		else
-			grunt.verbose.write " (ignoring, diff #{diff.toFixed(3)} > #{maxDiff})"
+			grunt.verbose.writeln "(ignoring, diff #{diff.toFixed(3)} > #{maxDiff})"
 			return color
 
-	grunt.verbose.write " (ignoring #{color.toString()})"
+	grunt.verbose.writeln "(ignoring #{color.toString()})"
 	return color
