@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY st0 "fill:#FF6666;stroke:#FF2727;stroke-width:4;stroke-miterlimit:10;">
+	<!ENTITY st0 "fill:#BADA55;stroke:rgb(255,0,255);stroke-width:4;stroke-miterlimit:10;">
 	<!ENTITY st1 "fill:url(#SVGID_1_);">
-	<!ENTITY st2 "fill:#DA0000;">
-	<!ENTITY st3 "fill:#FF0909;">
-	<!ENTITY st4 "fill:#A30000;">
+	<!ENTITY st2 "fill:rgb(0,255,127);">
+	<!ENTITY st3 "fill:#FFAAFF;">
+	<!ENTITY st4 "fill:#00F;">
 ]>
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400px" height="400px" viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 	<rect x="74" y="105" style="&st0;" width="97" height="97"/>
 	<g>
 		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="237.9656" y1="113.9656" x2="339.0344" y2="215.0344">
-			<stop offset="0" style="stop-color:#FFFFFF"/>
-			<stop offset="1" style="stop-color:#BC0000"/>
+			<stop offset="0" style="stop-color:#AAA"/>
+			<stop offset="1" style="stop-color:rgb(238,0,44)"/>
 		</linearGradient>
 		<path style="&st1;" d="M288.5,236c-39.4248,0-71.5-32.0747-71.5-71.5S249.0752,93,288.5,93s71.5,32.0747,71.5,71.5S327.9248,236,288.5,236z"/>
 		<path style="&st2;" d="M288.5,95c38.3838,0,69.5,31.1162,69.5,69.5S326.8838,234,288.5,234S219,202.8838,219,164.5S250.1162,95,288.5,95 M288.5,91c-40.528,0-73.5,32.972-73.5,73.5s32.972,73.5,73.5,73.5s73.5-32.972,73.5-73.5S329.028,91,288.5,91L288.5,91z"/>

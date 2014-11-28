@@ -12,11 +12,10 @@ module.exports = (grunt) ->
 		expand: true
 		cwd: "test/fixtures/"
 		src: ["*.svg"]
-		dest: "tmp/"
+		dest: "test/expected/"
 		ext: (ext) ->
-			unless grunt.task.current.target == "orig"
-				return "-#{grunt.task.current.target}#{ext}"
-			ext
+			return ext if grunt.task.current.target == "orig"
+			"-#{grunt.task.current.target}#{ext}"
 	}]
 
 	grunt.initConfig
@@ -26,19 +25,22 @@ module.exports = (grunt) ->
 				options:
 					instructions: "set everything to blue"
 
-
 			red:
 				files: demoFileObj
 				options:
 					instructions: "colorize #F00"
 
+			similar:
+				files: demoFileObj
+				options:
+					instructions: "set #23D0F1 to #F00 ~20%"
 
 		copy:
 			orig:
 				files: demoFileObj
 
 		clean:
-			tmp: ["tmp/"]
+			expected: ["test/expected/"]
 
 		coffeelint:
 			taskAndFilters:
@@ -54,6 +56,6 @@ module.exports = (grunt) ->
 	grunt.loadNpmTasks "grunt-coffeelint"
 
 	grunt.registerTask "default", ["coffeelint", "clean", "copy", "colorswap"]
-	grunt.registerTask "test", ["coffeelint", ]
+	grunt.registerTask "test", ["coffeelint"]
 
 	return

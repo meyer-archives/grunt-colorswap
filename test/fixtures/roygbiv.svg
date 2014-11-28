@@ -1,0 +1,8932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="410px" height="410px">
+
+  <rect
+    x="20"
+    y="20"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="20"
+    style="fill: rgb(17, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="20"
+    style="fill: rgb(34, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="20"
+    style="fill: rgb(51, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="20"
+    style="fill: rgb(68, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="20"
+    style="fill: rgb(85, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="20"
+    style="fill: rgb(102, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="20"
+    style="fill: rgb(119, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="20"
+    style="fill: rgb(136, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="20"
+    style="fill: rgb(153, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="20"
+    style="fill: rgb(170, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="20"
+    style="fill: rgb(187, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="20"
+    style="fill: rgb(204, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="20"
+    style="fill: rgb(221, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="20"
+    style="fill: rgb(238, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="20"
+    style="fill: rgb(255, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="20"
+    style="fill: rgb(255, 17, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="20"
+    style="fill: rgb(255, 34, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="20"
+    style="fill: rgb(255, 51, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="20"
+    style="fill: rgb(255, 68, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="20"
+    style="fill: rgb(255, 85, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="20"
+    style="fill: rgb(255, 102, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="20"
+    style="fill: rgb(255, 119, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="20"
+    style="fill: rgb(255, 136, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="20"
+    style="fill: rgb(255, 153, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="20"
+    style="fill: rgb(255, 170, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="20"
+    style="fill: rgb(255, 187, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="20"
+    style="fill: rgb(255, 204, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="20.5"
+    style="fill: rgb(255, 221, 221);"
+
+    stroke="rgb(255, 204, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="20.5"
+    style="fill: rgb(255, 238, 238);"
+
+    stroke="rgb(255, 204, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="20.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 204, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="32"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="32"
+    style="fill: rgb(17, 3, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="32"
+    style="fill: rgb(34, 7, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="32"
+    style="fill: rgb(51, 10, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="32"
+    style="fill: rgb(68, 14, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="32"
+    style="fill: rgb(85, 17, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="32"
+    style="fill: rgb(102, 20, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="32"
+    style="fill: rgb(119, 24, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="32"
+    style="fill: rgb(136, 27, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="32"
+    style="fill: rgb(153, 31, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="32"
+    style="fill: rgb(170, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="32"
+    style="fill: rgb(187, 37, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="32"
+    style="fill: rgb(204, 41, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="32"
+    style="fill: rgb(221, 44, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="32"
+    style="fill: rgb(238, 48, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="32"
+    style="fill: rgb(255, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="32"
+    style="fill: rgb(255, 65, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="32"
+    style="fill: rgb(255, 78, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="32"
+    style="fill: rgb(255, 92, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="32"
+    style="fill: rgb(255, 105, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="32"
+    style="fill: rgb(255, 119, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="32"
+    style="fill: rgb(255, 133, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="32"
+    style="fill: rgb(255, 146, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="32"
+    style="fill: rgb(255, 160, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="32"
+    style="fill: rgb(255, 173, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="32"
+    style="fill: rgb(255, 187, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="32"
+    style="fill: rgb(255, 201, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="32"
+    style="fill: rgb(255, 214, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="32.5"
+    style="fill: rgb(255, 228, 221);"
+
+    stroke="rgb(255, 214, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="32.5"
+    style="fill: rgb(255, 241, 238);"
+
+    stroke="rgb(255, 214, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="32.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 214, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="44"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="44"
+    style="fill: rgb(17, 7, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="44"
+    style="fill: rgb(34, 14, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="44"
+    style="fill: rgb(51, 20, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="44"
+    style="fill: rgb(68, 27, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="44"
+    style="fill: rgb(85, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="44"
+    style="fill: rgb(102, 41, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="44"
+    style="fill: rgb(119, 48, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="44"
+    style="fill: rgb(136, 54, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="44"
+    style="fill: rgb(153, 61, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="44"
+    style="fill: rgb(170, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="44"
+    style="fill: rgb(187, 75, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="44"
+    style="fill: rgb(204, 82, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="44"
+    style="fill: rgb(221, 88, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="44"
+    style="fill: rgb(238, 95, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="44"
+    style="fill: rgb(255, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="44"
+    style="fill: rgb(255, 112, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="44"
+    style="fill: rgb(255, 122, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="44"
+    style="fill: rgb(255, 133, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="44"
+    style="fill: rgb(255, 143, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="44"
+    style="fill: rgb(255, 153, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="44"
+    style="fill: rgb(255, 163, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="44"
+    style="fill: rgb(255, 173, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="44"
+    style="fill: rgb(255, 184, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="44"
+    style="fill: rgb(255, 194, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="44"
+    style="fill: rgb(255, 204, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="44"
+    style="fill: rgb(255, 214, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="44"
+    style="fill: rgb(255, 224, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="44.5"
+    style="fill: rgb(255, 235, 221);"
+
+    stroke="rgb(255, 224, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="44.5"
+    style="fill: rgb(255, 245, 238);"
+
+    stroke="rgb(255, 224, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="44.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 224, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="56"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="56"
+    style="fill: rgb(17, 10, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="56"
+    style="fill: rgb(34, 20, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="56"
+    style="fill: rgb(51, 31, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="56"
+    style="fill: rgb(68, 41, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="56"
+    style="fill: rgb(85, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="56"
+    style="fill: rgb(102, 61, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="56"
+    style="fill: rgb(119, 71, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="56"
+    style="fill: rgb(136, 82, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="56"
+    style="fill: rgb(153, 92, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="56"
+    style="fill: rgb(170, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="56"
+    style="fill: rgb(187, 112, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="56"
+    style="fill: rgb(204, 122, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="56"
+    style="fill: rgb(221, 133, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="56"
+    style="fill: rgb(238, 143, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="56"
+    style="fill: rgb(255, 153, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="56"
+    style="fill: rgb(255, 160, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="56"
+    style="fill: rgb(255, 167, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="56"
+    style="fill: rgb(255, 173, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="56"
+    style="fill: rgb(255, 180, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="56"
+    style="fill: rgb(255, 187, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="56"
+    style="fill: rgb(255, 194, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="56"
+    style="fill: rgb(255, 201, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="56"
+    style="fill: rgb(255, 207, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="56"
+    style="fill: rgb(255, 214, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="56"
+    style="fill: rgb(255, 221, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="56"
+    style="fill: rgb(255, 228, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="56"
+    style="fill: rgb(255, 235, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="56.5"
+    style="fill: rgb(255, 241, 221);"
+
+    stroke="rgb(255, 235, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="56.5"
+    style="fill: rgb(255, 248, 238);"
+
+    stroke="rgb(255, 235, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="56.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 235, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="68"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="68"
+    style="fill: rgb(17, 14, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="68"
+    style="fill: rgb(34, 27, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="68"
+    style="fill: rgb(51, 41, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="68"
+    style="fill: rgb(68, 54, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="68"
+    style="fill: rgb(85, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="68"
+    style="fill: rgb(102, 82, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="68"
+    style="fill: rgb(119, 95, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="68"
+    style="fill: rgb(136, 109, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="68"
+    style="fill: rgb(153, 122, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="68"
+    style="fill: rgb(170, 136, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="68"
+    style="fill: rgb(187, 150, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="68"
+    style="fill: rgb(204, 163, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="68"
+    style="fill: rgb(221, 177, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="68"
+    style="fill: rgb(238, 190, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="68"
+    style="fill: rgb(255, 204, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="68"
+    style="fill: rgb(255, 207, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="68"
+    style="fill: rgb(255, 211, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="68"
+    style="fill: rgb(255, 214, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="68"
+    style="fill: rgb(255, 218, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="68"
+    style="fill: rgb(255, 221, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="68"
+    style="fill: rgb(255, 224, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="68"
+    style="fill: rgb(255, 228, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="68"
+    style="fill: rgb(255, 231, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="68"
+    style="fill: rgb(255, 235, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="68"
+    style="fill: rgb(255, 238, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="68"
+    style="fill: rgb(255, 241, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="68"
+    style="fill: rgb(255, 245, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="68.5"
+    style="fill: rgb(255, 248, 221);"
+
+    stroke="rgb(255, 245, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="68.5"
+    style="fill: rgb(255, 252, 238);"
+
+    stroke="rgb(255, 245, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="68.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 245, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="80"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="80"
+    style="fill: rgb(17, 17, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="80"
+    style="fill: rgb(34, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="80"
+    style="fill: rgb(51, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="80"
+    style="fill: rgb(68, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="80"
+    style="fill: rgb(85, 85, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="80"
+    style="fill: rgb(102, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="80"
+    style="fill: rgb(119, 119, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="80"
+    style="fill: rgb(136, 136, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="80"
+    style="fill: rgb(153, 153, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="80"
+    style="fill: rgb(170, 170, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="80"
+    style="fill: rgb(187, 187, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="80"
+    style="fill: rgb(204, 204, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="80"
+    style="fill: rgb(221, 221, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="80"
+    style="fill: rgb(238, 238, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="80"
+    style="fill: rgb(255, 255, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="80"
+    style="fill: rgb(255, 255, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="80"
+    style="fill: rgb(255, 255, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="80"
+    style="fill: rgb(255, 255, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="80"
+    style="fill: rgb(255, 255, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="80"
+    style="fill: rgb(255, 255, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="80"
+    style="fill: rgb(255, 255, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="80"
+    style="fill: rgb(255, 255, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="80"
+    style="fill: rgb(255, 255, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="80"
+    style="fill: rgb(255, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="80"
+    style="fill: rgb(255, 255, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="80"
+    style="fill: rgb(255, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="80"
+    style="fill: rgb(255, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="80.5"
+    style="fill: rgb(255, 255, 221);"
+
+    stroke="rgb(255, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="80.5"
+    style="fill: rgb(255, 255, 238);"
+
+    stroke="rgb(255, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="80.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="92"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="92"
+    style="fill: rgb(14, 17, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="92"
+    style="fill: rgb(27, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="92"
+    style="fill: rgb(41, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="92"
+    style="fill: rgb(54, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="92"
+    style="fill: rgb(68, 85, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="92"
+    style="fill: rgb(82, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="92"
+    style="fill: rgb(95, 119, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="92"
+    style="fill: rgb(109, 136, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="92"
+    style="fill: rgb(122, 153, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="92"
+    style="fill: rgb(136, 170, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="92"
+    style="fill: rgb(150, 187, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="92"
+    style="fill: rgb(163, 204, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="92"
+    style="fill: rgb(177, 221, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="92"
+    style="fill: rgb(190, 238, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="92"
+    style="fill: rgb(204, 255, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="92"
+    style="fill: rgb(207, 255, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="92"
+    style="fill: rgb(211, 255, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="92"
+    style="fill: rgb(214, 255, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="92"
+    style="fill: rgb(218, 255, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="92"
+    style="fill: rgb(221, 255, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="92"
+    style="fill: rgb(224, 255, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="92"
+    style="fill: rgb(228, 255, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="92"
+    style="fill: rgb(231, 255, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="92"
+    style="fill: rgb(235, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="92"
+    style="fill: rgb(238, 255, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="92"
+    style="fill: rgb(241, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="92"
+    style="fill: rgb(245, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="92.5"
+    style="fill: rgb(248, 255, 221);"
+
+    stroke="rgb(245, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="92.5"
+    style="fill: rgb(252, 255, 238);"
+
+    stroke="rgb(245, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="92.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(245, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="104"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="104"
+    style="fill: rgb(10, 17, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="104"
+    style="fill: rgb(20, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="104"
+    style="fill: rgb(31, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="104"
+    style="fill: rgb(41, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="104"
+    style="fill: rgb(51, 85, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="104"
+    style="fill: rgb(61, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="104"
+    style="fill: rgb(71, 119, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="104"
+    style="fill: rgb(82, 136, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="104"
+    style="fill: rgb(92, 153, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="104"
+    style="fill: rgb(102, 170, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="104"
+    style="fill: rgb(112, 187, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="104"
+    style="fill: rgb(122, 204, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="104"
+    style="fill: rgb(133, 221, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="104"
+    style="fill: rgb(143, 238, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="104"
+    style="fill: rgb(153, 255, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="104"
+    style="fill: rgb(160, 255, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="104"
+    style="fill: rgb(167, 255, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="104"
+    style="fill: rgb(173, 255, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="104"
+    style="fill: rgb(180, 255, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="104"
+    style="fill: rgb(187, 255, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="104"
+    style="fill: rgb(194, 255, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="104"
+    style="fill: rgb(201, 255, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="104"
+    style="fill: rgb(207, 255, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="104"
+    style="fill: rgb(214, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="104"
+    style="fill: rgb(221, 255, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="104"
+    style="fill: rgb(228, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="104"
+    style="fill: rgb(235, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="104.5"
+    style="fill: rgb(241, 255, 221);"
+
+    stroke="rgb(235, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="104.5"
+    style="fill: rgb(248, 255, 238);"
+
+    stroke="rgb(235, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="104.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(235, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="116"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="116"
+    style="fill: rgb(7, 17, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="116"
+    style="fill: rgb(14, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="116"
+    style="fill: rgb(20, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="116"
+    style="fill: rgb(27, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="116"
+    style="fill: rgb(34, 85, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="116"
+    style="fill: rgb(41, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="116"
+    style="fill: rgb(48, 119, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="116"
+    style="fill: rgb(54, 136, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="116"
+    style="fill: rgb(61, 153, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="116"
+    style="fill: rgb(68, 170, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="116"
+    style="fill: rgb(75, 187, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="116"
+    style="fill: rgb(82, 204, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="116"
+    style="fill: rgb(88, 221, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="116"
+    style="fill: rgb(95, 238, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="116"
+    style="fill: rgb(102, 255, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="116"
+    style="fill: rgb(112, 255, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="116"
+    style="fill: rgb(122, 255, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="116"
+    style="fill: rgb(133, 255, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="116"
+    style="fill: rgb(143, 255, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="116"
+    style="fill: rgb(153, 255, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="116"
+    style="fill: rgb(163, 255, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="116"
+    style="fill: rgb(173, 255, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="116"
+    style="fill: rgb(184, 255, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="116"
+    style="fill: rgb(194, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="116"
+    style="fill: rgb(204, 255, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="116"
+    style="fill: rgb(214, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="116"
+    style="fill: rgb(224, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="116.5"
+    style="fill: rgb(235, 255, 221);"
+
+    stroke="rgb(224, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="116.5"
+    style="fill: rgb(245, 255, 238);"
+
+    stroke="rgb(224, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="116.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(224, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="128"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="128"
+    style="fill: rgb(3, 17, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="128"
+    style="fill: rgb(7, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="128"
+    style="fill: rgb(10, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="128"
+    style="fill: rgb(14, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="128"
+    style="fill: rgb(17, 85, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="128"
+    style="fill: rgb(20, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="128"
+    style="fill: rgb(24, 119, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="128"
+    style="fill: rgb(27, 136, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="128"
+    style="fill: rgb(31, 153, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="128"
+    style="fill: rgb(34, 170, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="128"
+    style="fill: rgb(37, 187, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="128"
+    style="fill: rgb(41, 204, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="128"
+    style="fill: rgb(44, 221, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="128"
+    style="fill: rgb(48, 238, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="128"
+    style="fill: rgb(51, 255, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="128"
+    style="fill: rgb(65, 255, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="128"
+    style="fill: rgb(78, 255, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="128"
+    style="fill: rgb(92, 255, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="128"
+    style="fill: rgb(105, 255, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="128"
+    style="fill: rgb(119, 255, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="128"
+    style="fill: rgb(133, 255, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="128"
+    style="fill: rgb(146, 255, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="128"
+    style="fill: rgb(160, 255, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="128"
+    style="fill: rgb(173, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="128"
+    style="fill: rgb(187, 255, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="128"
+    style="fill: rgb(201, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="128"
+    style="fill: rgb(214, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="128.5"
+    style="fill: rgb(228, 255, 221);"
+
+    stroke="rgb(214, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="128.5"
+    style="fill: rgb(241, 255, 238);"
+
+    stroke="rgb(214, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="128.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(214, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="140"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="140"
+    style="fill: rgb(0, 17, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="140"
+    style="fill: rgb(0, 34, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="140"
+    style="fill: rgb(0, 51, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="140"
+    style="fill: rgb(0, 68, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="140"
+    style="fill: rgb(0, 85, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="140"
+    style="fill: rgb(0, 102, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="140"
+    style="fill: rgb(0, 119, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="140"
+    style="fill: rgb(0, 136, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="140"
+    style="fill: rgb(0, 153, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="140"
+    style="fill: rgb(0, 170, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="140"
+    style="fill: rgb(0, 187, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="140"
+    style="fill: rgb(0, 204, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="140"
+    style="fill: rgb(0, 221, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="140"
+    style="fill: rgb(0, 238, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="140"
+    style="fill: rgb(0, 255, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="140"
+    style="fill: rgb(17, 255, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="140"
+    style="fill: rgb(34, 255, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="140"
+    style="fill: rgb(51, 255, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="140"
+    style="fill: rgb(68, 255, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="140"
+    style="fill: rgb(85, 255, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="140"
+    style="fill: rgb(102, 255, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="140"
+    style="fill: rgb(119, 255, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="140"
+    style="fill: rgb(136, 255, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="140"
+    style="fill: rgb(153, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="140"
+    style="fill: rgb(170, 255, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="140"
+    style="fill: rgb(187, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="140"
+    style="fill: rgb(204, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="140.5"
+    style="fill: rgb(221, 255, 221);"
+
+    stroke="rgb(204, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="140.5"
+    style="fill: rgb(238, 255, 238);"
+
+    stroke="rgb(204, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="140.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 255, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="152"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="152"
+    style="fill: rgb(0, 17, 3);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="152"
+    style="fill: rgb(0, 34, 7);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="152"
+    style="fill: rgb(0, 51, 10);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="152"
+    style="fill: rgb(0, 68, 14);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="152"
+    style="fill: rgb(0, 85, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="152"
+    style="fill: rgb(0, 102, 20);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="152"
+    style="fill: rgb(0, 119, 24);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="152"
+    style="fill: rgb(0, 136, 27);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="152"
+    style="fill: rgb(0, 153, 31);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="152"
+    style="fill: rgb(0, 170, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="152"
+    style="fill: rgb(0, 187, 37);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="152"
+    style="fill: rgb(0, 204, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="152"
+    style="fill: rgb(0, 221, 44);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="152"
+    style="fill: rgb(0, 238, 48);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="152"
+    style="fill: rgb(0, 255, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="152"
+    style="fill: rgb(17, 255, 65);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="152"
+    style="fill: rgb(34, 255, 78);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="152"
+    style="fill: rgb(51, 255, 92);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="152"
+    style="fill: rgb(68, 255, 105);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="152"
+    style="fill: rgb(85, 255, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="152"
+    style="fill: rgb(102, 255, 133);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="152"
+    style="fill: rgb(119, 255, 146);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="152"
+    style="fill: rgb(136, 255, 160);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="152"
+    style="fill: rgb(153, 255, 173);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="152"
+    style="fill: rgb(170, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="152"
+    style="fill: rgb(187, 255, 201);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="152"
+    style="fill: rgb(204, 255, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="152.5"
+    style="fill: rgb(221, 255, 228);"
+
+    stroke="rgb(204, 255, 214)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="152.5"
+    style="fill: rgb(238, 255, 241);"
+
+    stroke="rgb(204, 255, 214)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="152.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 255, 214)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="164"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="164"
+    style="fill: rgb(0, 17, 7);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="164"
+    style="fill: rgb(0, 34, 14);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="164"
+    style="fill: rgb(0, 51, 20);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="164"
+    style="fill: rgb(0, 68, 27);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="164"
+    style="fill: rgb(0, 85, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="164"
+    style="fill: rgb(0, 102, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="164"
+    style="fill: rgb(0, 119, 48);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="164"
+    style="fill: rgb(0, 136, 54);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="164"
+    style="fill: rgb(0, 153, 61);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="164"
+    style="fill: rgb(0, 170, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="164"
+    style="fill: rgb(0, 187, 75);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="164"
+    style="fill: rgb(0, 204, 82);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="164"
+    style="fill: rgb(0, 221, 88);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="164"
+    style="fill: rgb(0, 238, 95);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="164"
+    style="fill: rgb(0, 255, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="164"
+    style="fill: rgb(17, 255, 112);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="164"
+    style="fill: rgb(34, 255, 122);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="164"
+    style="fill: rgb(51, 255, 133);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="164"
+    style="fill: rgb(68, 255, 143);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="164"
+    style="fill: rgb(85, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="164"
+    style="fill: rgb(102, 255, 163);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="164"
+    style="fill: rgb(119, 255, 173);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="164"
+    style="fill: rgb(136, 255, 184);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="164"
+    style="fill: rgb(153, 255, 194);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="164"
+    style="fill: rgb(170, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="164"
+    style="fill: rgb(187, 255, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="164"
+    style="fill: rgb(204, 255, 224);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="164.5"
+    style="fill: rgb(221, 255, 235);"
+
+    stroke="rgb(204, 255, 224)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="164.5"
+    style="fill: rgb(238, 255, 245);"
+
+    stroke="rgb(204, 255, 224)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="164.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 255, 224)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="176"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="176"
+    style="fill: rgb(0, 17, 10);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="176"
+    style="fill: rgb(0, 34, 20);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="176"
+    style="fill: rgb(0, 51, 31);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="176"
+    style="fill: rgb(0, 68, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="176"
+    style="fill: rgb(0, 85, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="176"
+    style="fill: rgb(0, 102, 61);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="176"
+    style="fill: rgb(0, 119, 71);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="176"
+    style="fill: rgb(0, 136, 82);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="176"
+    style="fill: rgb(0, 153, 92);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="176"
+    style="fill: rgb(0, 170, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="176"
+    style="fill: rgb(0, 187, 112);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="176"
+    style="fill: rgb(0, 204, 122);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="176"
+    style="fill: rgb(0, 221, 133);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="176"
+    style="fill: rgb(0, 238, 143);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="176"
+    style="fill: rgb(0, 255, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="176"
+    style="fill: rgb(17, 255, 160);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="176"
+    style="fill: rgb(34, 255, 167);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="176"
+    style="fill: rgb(51, 255, 173);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="176"
+    style="fill: rgb(68, 255, 180);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="176"
+    style="fill: rgb(85, 255, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="176"
+    style="fill: rgb(102, 255, 194);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="176"
+    style="fill: rgb(119, 255, 201);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="176"
+    style="fill: rgb(136, 255, 207);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="176"
+    style="fill: rgb(153, 255, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="176"
+    style="fill: rgb(170, 255, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="176"
+    style="fill: rgb(187, 255, 228);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="176"
+    style="fill: rgb(204, 255, 235);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="176.5"
+    style="fill: rgb(221, 255, 241);"
+
+    stroke="rgb(204, 255, 235)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="176.5"
+    style="fill: rgb(238, 255, 248);"
+
+    stroke="rgb(204, 255, 235)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="176.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 255, 235)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="188"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="188"
+    style="fill: rgb(0, 17, 14);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="188"
+    style="fill: rgb(0, 34, 27);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="188"
+    style="fill: rgb(0, 51, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="188"
+    style="fill: rgb(0, 68, 54);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="188"
+    style="fill: rgb(0, 85, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="188"
+    style="fill: rgb(0, 102, 82);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="188"
+    style="fill: rgb(0, 119, 95);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="188"
+    style="fill: rgb(0, 136, 109);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="188"
+    style="fill: rgb(0, 153, 122);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="188"
+    style="fill: rgb(0, 170, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="188"
+    style="fill: rgb(0, 187, 150);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="188"
+    style="fill: rgb(0, 204, 163);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="188"
+    style="fill: rgb(0, 221, 177);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="188"
+    style="fill: rgb(0, 238, 190);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="188"
+    style="fill: rgb(0, 255, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="188"
+    style="fill: rgb(17, 255, 207);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="188"
+    style="fill: rgb(34, 255, 211);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="188"
+    style="fill: rgb(51, 255, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="188"
+    style="fill: rgb(68, 255, 218);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="188"
+    style="fill: rgb(85, 255, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="188"
+    style="fill: rgb(102, 255, 224);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="188"
+    style="fill: rgb(119, 255, 228);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="188"
+    style="fill: rgb(136, 255, 231);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="188"
+    style="fill: rgb(153, 255, 235);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="188"
+    style="fill: rgb(170, 255, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="188"
+    style="fill: rgb(187, 255, 241);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="188"
+    style="fill: rgb(204, 255, 245);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="188.5"
+    style="fill: rgb(221, 255, 248);"
+
+    stroke="rgb(204, 255, 245)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="188.5"
+    style="fill: rgb(238, 255, 252);"
+
+    stroke="rgb(204, 255, 245)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="188.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 255, 245)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="200"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="200"
+    style="fill: rgb(0, 17, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="200"
+    style="fill: rgb(0, 34, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="200"
+    style="fill: rgb(0, 51, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="200"
+    style="fill: rgb(0, 68, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="200"
+    style="fill: rgb(0, 85, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="200"
+    style="fill: rgb(0, 102, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="200"
+    style="fill: rgb(0, 119, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="200"
+    style="fill: rgb(0, 136, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="200"
+    style="fill: rgb(0, 153, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="200"
+    style="fill: rgb(0, 170, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="200"
+    style="fill: rgb(0, 187, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="200"
+    style="fill: rgb(0, 204, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="200"
+    style="fill: rgb(0, 221, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="200"
+    style="fill: rgb(0, 238, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="200"
+    style="fill: rgb(0, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="200"
+    style="fill: rgb(17, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="200"
+    style="fill: rgb(34, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="200"
+    style="fill: rgb(51, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="200"
+    style="fill: rgb(68, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="200"
+    style="fill: rgb(85, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="200"
+    style="fill: rgb(102, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="200"
+    style="fill: rgb(119, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="200"
+    style="fill: rgb(136, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="200"
+    style="fill: rgb(153, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="200"
+    style="fill: rgb(170, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="200"
+    style="fill: rgb(187, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="200"
+    style="fill: rgb(204, 255, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="200.5"
+    style="fill: rgb(221, 255, 255);"
+
+    stroke="rgb(204, 255, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="200.5"
+    style="fill: rgb(238, 255, 255);"
+
+    stroke="rgb(204, 255, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="200.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 255, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="212"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="212"
+    style="fill: rgb(0, 14, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="212"
+    style="fill: rgb(0, 27, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="212"
+    style="fill: rgb(0, 41, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="212"
+    style="fill: rgb(0, 54, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="212"
+    style="fill: rgb(0, 68, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="212"
+    style="fill: rgb(0, 82, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="212"
+    style="fill: rgb(0, 95, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="212"
+    style="fill: rgb(0, 109, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="212"
+    style="fill: rgb(0, 122, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="212"
+    style="fill: rgb(0, 136, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="212"
+    style="fill: rgb(0, 150, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="212"
+    style="fill: rgb(0, 163, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="212"
+    style="fill: rgb(0, 177, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="212"
+    style="fill: rgb(0, 190, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="212"
+    style="fill: rgb(0, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="212"
+    style="fill: rgb(17, 207, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="212"
+    style="fill: rgb(34, 211, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="212"
+    style="fill: rgb(51, 214, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="212"
+    style="fill: rgb(68, 218, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="212"
+    style="fill: rgb(85, 221, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="212"
+    style="fill: rgb(102, 224, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="212"
+    style="fill: rgb(119, 228, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="212"
+    style="fill: rgb(136, 231, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="212"
+    style="fill: rgb(153, 235, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="212"
+    style="fill: rgb(170, 238, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="212"
+    style="fill: rgb(187, 241, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="212"
+    style="fill: rgb(204, 245, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="212.5"
+    style="fill: rgb(221, 248, 255);"
+
+    stroke="rgb(204, 245, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="212.5"
+    style="fill: rgb(238, 252, 255);"
+
+    stroke="rgb(204, 245, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="212.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 245, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="224"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="224"
+    style="fill: rgb(0, 10, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="224"
+    style="fill: rgb(0, 20, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="224"
+    style="fill: rgb(0, 31, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="224"
+    style="fill: rgb(0, 41, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="224"
+    style="fill: rgb(0, 51, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="224"
+    style="fill: rgb(0, 61, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="224"
+    style="fill: rgb(0, 71, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="224"
+    style="fill: rgb(0, 82, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="224"
+    style="fill: rgb(0, 92, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="224"
+    style="fill: rgb(0, 102, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="224"
+    style="fill: rgb(0, 112, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="224"
+    style="fill: rgb(0, 122, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="224"
+    style="fill: rgb(0, 133, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="224"
+    style="fill: rgb(0, 143, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="224"
+    style="fill: rgb(0, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="224"
+    style="fill: rgb(17, 160, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="224"
+    style="fill: rgb(34, 167, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="224"
+    style="fill: rgb(51, 173, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="224"
+    style="fill: rgb(68, 180, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="224"
+    style="fill: rgb(85, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="224"
+    style="fill: rgb(102, 194, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="224"
+    style="fill: rgb(119, 201, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="224"
+    style="fill: rgb(136, 207, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="224"
+    style="fill: rgb(153, 214, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="224"
+    style="fill: rgb(170, 221, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="224"
+    style="fill: rgb(187, 228, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="224"
+    style="fill: rgb(204, 235, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="224.5"
+    style="fill: rgb(221, 241, 255);"
+
+    stroke="rgb(204, 235, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="224.5"
+    style="fill: rgb(238, 248, 255);"
+
+    stroke="rgb(204, 235, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="224.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 235, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="236"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="236"
+    style="fill: rgb(0, 7, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="236"
+    style="fill: rgb(0, 14, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="236"
+    style="fill: rgb(0, 20, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="236"
+    style="fill: rgb(0, 27, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="236"
+    style="fill: rgb(0, 34, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="236"
+    style="fill: rgb(0, 41, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="236"
+    style="fill: rgb(0, 48, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="236"
+    style="fill: rgb(0, 54, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="236"
+    style="fill: rgb(0, 61, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="236"
+    style="fill: rgb(0, 68, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="236"
+    style="fill: rgb(0, 75, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="236"
+    style="fill: rgb(0, 82, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="236"
+    style="fill: rgb(0, 88, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="236"
+    style="fill: rgb(0, 95, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="236"
+    style="fill: rgb(0, 102, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="236"
+    style="fill: rgb(17, 112, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="236"
+    style="fill: rgb(34, 122, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="236"
+    style="fill: rgb(51, 133, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="236"
+    style="fill: rgb(68, 143, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="236"
+    style="fill: rgb(85, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="236"
+    style="fill: rgb(102, 163, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="236"
+    style="fill: rgb(119, 173, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="236"
+    style="fill: rgb(136, 184, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="236"
+    style="fill: rgb(153, 194, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="236"
+    style="fill: rgb(170, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="236"
+    style="fill: rgb(187, 214, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="236"
+    style="fill: rgb(204, 224, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="236.5"
+    style="fill: rgb(221, 235, 255);"
+
+    stroke="rgb(204, 224, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="236.5"
+    style="fill: rgb(238, 245, 255);"
+
+    stroke="rgb(204, 224, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="236.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 224, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="248"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="248"
+    style="fill: rgb(0, 3, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="248"
+    style="fill: rgb(0, 7, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="248"
+    style="fill: rgb(0, 10, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="248"
+    style="fill: rgb(0, 14, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="248"
+    style="fill: rgb(0, 17, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="248"
+    style="fill: rgb(0, 20, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="248"
+    style="fill: rgb(0, 24, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="248"
+    style="fill: rgb(0, 27, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="248"
+    style="fill: rgb(0, 31, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="248"
+    style="fill: rgb(0, 34, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="248"
+    style="fill: rgb(0, 37, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="248"
+    style="fill: rgb(0, 41, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="248"
+    style="fill: rgb(0, 44, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="248"
+    style="fill: rgb(0, 48, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="248"
+    style="fill: rgb(0, 51, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="248"
+    style="fill: rgb(17, 65, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="248"
+    style="fill: rgb(34, 78, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="248"
+    style="fill: rgb(51, 92, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="248"
+    style="fill: rgb(68, 105, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="248"
+    style="fill: rgb(85, 119, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="248"
+    style="fill: rgb(102, 133, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="248"
+    style="fill: rgb(119, 146, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="248"
+    style="fill: rgb(136, 160, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="248"
+    style="fill: rgb(153, 173, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="248"
+    style="fill: rgb(170, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="248"
+    style="fill: rgb(187, 201, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="248"
+    style="fill: rgb(204, 214, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="248.5"
+    style="fill: rgb(221, 228, 255);"
+
+    stroke="rgb(204, 214, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="248.5"
+    style="fill: rgb(238, 241, 255);"
+
+    stroke="rgb(204, 214, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="248.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 214, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="260"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="260"
+    style="fill: rgb(0, 0, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="260"
+    style="fill: rgb(0, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="260"
+    style="fill: rgb(0, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="260"
+    style="fill: rgb(0, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="260"
+    style="fill: rgb(0, 0, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="260"
+    style="fill: rgb(0, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="260"
+    style="fill: rgb(0, 0, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="260"
+    style="fill: rgb(0, 0, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="260"
+    style="fill: rgb(0, 0, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="260"
+    style="fill: rgb(0, 0, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="260"
+    style="fill: rgb(0, 0, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="260"
+    style="fill: rgb(0, 0, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="260"
+    style="fill: rgb(0, 0, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="260"
+    style="fill: rgb(0, 0, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="260"
+    style="fill: rgb(0, 0, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="260"
+    style="fill: rgb(17, 17, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="260"
+    style="fill: rgb(34, 34, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="260"
+    style="fill: rgb(51, 51, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="260"
+    style="fill: rgb(68, 68, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="260"
+    style="fill: rgb(85, 85, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="260"
+    style="fill: rgb(102, 102, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="260"
+    style="fill: rgb(119, 119, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="260"
+    style="fill: rgb(136, 136, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="260"
+    style="fill: rgb(153, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="260"
+    style="fill: rgb(170, 170, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="260"
+    style="fill: rgb(187, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="260"
+    style="fill: rgb(204, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="260.5"
+    style="fill: rgb(221, 221, 255);"
+
+    stroke="rgb(204, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="260.5"
+    style="fill: rgb(238, 238, 255);"
+
+    stroke="rgb(204, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="260.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(204, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="272"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="272"
+    style="fill: rgb(3, 0, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="272"
+    style="fill: rgb(7, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="272"
+    style="fill: rgb(10, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="272"
+    style="fill: rgb(14, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="272"
+    style="fill: rgb(17, 0, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="272"
+    style="fill: rgb(20, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="272"
+    style="fill: rgb(24, 0, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="272"
+    style="fill: rgb(27, 0, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="272"
+    style="fill: rgb(31, 0, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="272"
+    style="fill: rgb(34, 0, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="272"
+    style="fill: rgb(37, 0, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="272"
+    style="fill: rgb(41, 0, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="272"
+    style="fill: rgb(44, 0, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="272"
+    style="fill: rgb(48, 0, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="272"
+    style="fill: rgb(51, 0, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="272"
+    style="fill: rgb(65, 17, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="272"
+    style="fill: rgb(78, 34, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="272"
+    style="fill: rgb(92, 51, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="272"
+    style="fill: rgb(105, 68, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="272"
+    style="fill: rgb(119, 85, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="272"
+    style="fill: rgb(133, 102, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="272"
+    style="fill: rgb(146, 119, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="272"
+    style="fill: rgb(160, 136, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="272"
+    style="fill: rgb(173, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="272"
+    style="fill: rgb(187, 170, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="272"
+    style="fill: rgb(201, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="272"
+    style="fill: rgb(214, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="272.5"
+    style="fill: rgb(228, 221, 255);"
+
+    stroke="rgb(214, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="272.5"
+    style="fill: rgb(241, 238, 255);"
+
+    stroke="rgb(214, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="272.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(214, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="284"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="284"
+    style="fill: rgb(7, 0, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="284"
+    style="fill: rgb(14, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="284"
+    style="fill: rgb(20, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="284"
+    style="fill: rgb(27, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="284"
+    style="fill: rgb(34, 0, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="284"
+    style="fill: rgb(41, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="284"
+    style="fill: rgb(48, 0, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="284"
+    style="fill: rgb(54, 0, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="284"
+    style="fill: rgb(61, 0, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="284"
+    style="fill: rgb(68, 0, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="284"
+    style="fill: rgb(75, 0, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="284"
+    style="fill: rgb(82, 0, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="284"
+    style="fill: rgb(88, 0, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="284"
+    style="fill: rgb(95, 0, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="284"
+    style="fill: rgb(102, 0, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="284"
+    style="fill: rgb(112, 17, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="284"
+    style="fill: rgb(122, 34, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="284"
+    style="fill: rgb(133, 51, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="284"
+    style="fill: rgb(143, 68, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="284"
+    style="fill: rgb(153, 85, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="284"
+    style="fill: rgb(163, 102, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="284"
+    style="fill: rgb(173, 119, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="284"
+    style="fill: rgb(184, 136, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="284"
+    style="fill: rgb(194, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="284"
+    style="fill: rgb(204, 170, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="284"
+    style="fill: rgb(214, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="284"
+    style="fill: rgb(224, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="284.5"
+    style="fill: rgb(235, 221, 255);"
+
+    stroke="rgb(224, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="284.5"
+    style="fill: rgb(245, 238, 255);"
+
+    stroke="rgb(224, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="284.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(224, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="296"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="296"
+    style="fill: rgb(10, 0, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="296"
+    style="fill: rgb(20, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="296"
+    style="fill: rgb(31, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="296"
+    style="fill: rgb(41, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="296"
+    style="fill: rgb(51, 0, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="296"
+    style="fill: rgb(61, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="296"
+    style="fill: rgb(71, 0, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="296"
+    style="fill: rgb(82, 0, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="296"
+    style="fill: rgb(92, 0, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="296"
+    style="fill: rgb(102, 0, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="296"
+    style="fill: rgb(112, 0, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="296"
+    style="fill: rgb(122, 0, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="296"
+    style="fill: rgb(133, 0, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="296"
+    style="fill: rgb(143, 0, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="296"
+    style="fill: rgb(153, 0, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="296"
+    style="fill: rgb(160, 17, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="296"
+    style="fill: rgb(167, 34, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="296"
+    style="fill: rgb(173, 51, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="296"
+    style="fill: rgb(180, 68, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="296"
+    style="fill: rgb(187, 85, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="296"
+    style="fill: rgb(194, 102, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="296"
+    style="fill: rgb(201, 119, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="296"
+    style="fill: rgb(207, 136, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="296"
+    style="fill: rgb(214, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="296"
+    style="fill: rgb(221, 170, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="296"
+    style="fill: rgb(228, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="296"
+    style="fill: rgb(235, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="296.5"
+    style="fill: rgb(241, 221, 255);"
+
+    stroke="rgb(235, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="296.5"
+    style="fill: rgb(248, 238, 255);"
+
+    stroke="rgb(235, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="296.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(235, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="308"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="308"
+    style="fill: rgb(14, 0, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="308"
+    style="fill: rgb(27, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="308"
+    style="fill: rgb(41, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="308"
+    style="fill: rgb(54, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="308"
+    style="fill: rgb(68, 0, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="308"
+    style="fill: rgb(82, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="308"
+    style="fill: rgb(95, 0, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="308"
+    style="fill: rgb(109, 0, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="308"
+    style="fill: rgb(122, 0, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="308"
+    style="fill: rgb(136, 0, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="308"
+    style="fill: rgb(150, 0, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="308"
+    style="fill: rgb(163, 0, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="308"
+    style="fill: rgb(177, 0, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="308"
+    style="fill: rgb(190, 0, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="308"
+    style="fill: rgb(204, 0, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="308"
+    style="fill: rgb(207, 17, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="308"
+    style="fill: rgb(211, 34, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="308"
+    style="fill: rgb(214, 51, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="308"
+    style="fill: rgb(218, 68, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="308"
+    style="fill: rgb(221, 85, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="308"
+    style="fill: rgb(224, 102, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="308"
+    style="fill: rgb(228, 119, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="308"
+    style="fill: rgb(231, 136, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="308"
+    style="fill: rgb(235, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="308"
+    style="fill: rgb(238, 170, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="308"
+    style="fill: rgb(241, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="308"
+    style="fill: rgb(245, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="308.5"
+    style="fill: rgb(248, 221, 255);"
+
+    stroke="rgb(245, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="308.5"
+    style="fill: rgb(252, 238, 255);"
+
+    stroke="rgb(245, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="308.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(245, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="320"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="320"
+    style="fill: rgb(17, 0, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="320"
+    style="fill: rgb(34, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="320"
+    style="fill: rgb(51, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="320"
+    style="fill: rgb(68, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="320"
+    style="fill: rgb(85, 0, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="320"
+    style="fill: rgb(102, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="320"
+    style="fill: rgb(119, 0, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="320"
+    style="fill: rgb(136, 0, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="320"
+    style="fill: rgb(153, 0, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="320"
+    style="fill: rgb(170, 0, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="320"
+    style="fill: rgb(187, 0, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="320"
+    style="fill: rgb(204, 0, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="320"
+    style="fill: rgb(221, 0, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="320"
+    style="fill: rgb(238, 0, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="320"
+    style="fill: rgb(255, 0, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="320"
+    style="fill: rgb(255, 17, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="320"
+    style="fill: rgb(255, 34, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="320"
+    style="fill: rgb(255, 51, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="320"
+    style="fill: rgb(255, 68, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="320"
+    style="fill: rgb(255, 85, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="320"
+    style="fill: rgb(255, 102, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="320"
+    style="fill: rgb(255, 119, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="320"
+    style="fill: rgb(255, 136, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="320"
+    style="fill: rgb(255, 153, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="320"
+    style="fill: rgb(255, 170, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="320"
+    style="fill: rgb(255, 187, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="320"
+    style="fill: rgb(255, 204, 255);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="320.5"
+    style="fill: rgb(255, 221, 255);"
+
+    stroke="rgb(255, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="320.5"
+    style="fill: rgb(255, 238, 255);"
+
+    stroke="rgb(255, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="320.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 204, 255)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="332"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="332"
+    style="fill: rgb(17, 0, 14);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="332"
+    style="fill: rgb(34, 0, 27);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="332"
+    style="fill: rgb(51, 0, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="332"
+    style="fill: rgb(68, 0, 54);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="332"
+    style="fill: rgb(85, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="332"
+    style="fill: rgb(102, 0, 82);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="332"
+    style="fill: rgb(119, 0, 95);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="332"
+    style="fill: rgb(136, 0, 109);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="332"
+    style="fill: rgb(153, 0, 122);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="332"
+    style="fill: rgb(170, 0, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="332"
+    style="fill: rgb(187, 0, 150);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="332"
+    style="fill: rgb(204, 0, 163);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="332"
+    style="fill: rgb(221, 0, 177);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="332"
+    style="fill: rgb(238, 0, 190);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="332"
+    style="fill: rgb(255, 0, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="332"
+    style="fill: rgb(255, 17, 207);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="332"
+    style="fill: rgb(255, 34, 211);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="332"
+    style="fill: rgb(255, 51, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="332"
+    style="fill: rgb(255, 68, 218);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="332"
+    style="fill: rgb(255, 85, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="332"
+    style="fill: rgb(255, 102, 224);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="332"
+    style="fill: rgb(255, 119, 228);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="332"
+    style="fill: rgb(255, 136, 231);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="332"
+    style="fill: rgb(255, 153, 235);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="332"
+    style="fill: rgb(255, 170, 238);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="332"
+    style="fill: rgb(255, 187, 241);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="332"
+    style="fill: rgb(255, 204, 245);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="332.5"
+    style="fill: rgb(255, 221, 248);"
+
+    stroke="rgb(255, 204, 245)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="332.5"
+    style="fill: rgb(255, 238, 252);"
+
+    stroke="rgb(255, 204, 245)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="332.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 204, 245)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="344"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="344"
+    style="fill: rgb(17, 0, 10);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="344"
+    style="fill: rgb(34, 0, 20);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="344"
+    style="fill: rgb(51, 0, 31);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="344"
+    style="fill: rgb(68, 0, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="344"
+    style="fill: rgb(85, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="344"
+    style="fill: rgb(102, 0, 61);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="344"
+    style="fill: rgb(119, 0, 71);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="344"
+    style="fill: rgb(136, 0, 82);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="344"
+    style="fill: rgb(153, 0, 92);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="344"
+    style="fill: rgb(170, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="344"
+    style="fill: rgb(187, 0, 112);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="344"
+    style="fill: rgb(204, 0, 122);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="344"
+    style="fill: rgb(221, 0, 133);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="344"
+    style="fill: rgb(238, 0, 143);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="344"
+    style="fill: rgb(255, 0, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="344"
+    style="fill: rgb(255, 17, 160);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="344"
+    style="fill: rgb(255, 34, 167);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="344"
+    style="fill: rgb(255, 51, 173);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="344"
+    style="fill: rgb(255, 68, 180);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="344"
+    style="fill: rgb(255, 85, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="344"
+    style="fill: rgb(255, 102, 194);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="344"
+    style="fill: rgb(255, 119, 201);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="344"
+    style="fill: rgb(255, 136, 207);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="344"
+    style="fill: rgb(255, 153, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="344"
+    style="fill: rgb(255, 170, 221);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="344"
+    style="fill: rgb(255, 187, 228);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="344"
+    style="fill: rgb(255, 204, 235);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="344.5"
+    style="fill: rgb(255, 221, 241);"
+
+    stroke="rgb(255, 204, 235)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="344.5"
+    style="fill: rgb(255, 238, 248);"
+
+    stroke="rgb(255, 204, 235)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="344.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 204, 235)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="356"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="356"
+    style="fill: rgb(17, 0, 7);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="356"
+    style="fill: rgb(34, 0, 14);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="356"
+    style="fill: rgb(51, 0, 20);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="356"
+    style="fill: rgb(68, 0, 27);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="356"
+    style="fill: rgb(85, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="356"
+    style="fill: rgb(102, 0, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="356"
+    style="fill: rgb(119, 0, 48);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="356"
+    style="fill: rgb(136, 0, 54);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="356"
+    style="fill: rgb(153, 0, 61);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="356"
+    style="fill: rgb(170, 0, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="356"
+    style="fill: rgb(187, 0, 75);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="356"
+    style="fill: rgb(204, 0, 82);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="356"
+    style="fill: rgb(221, 0, 88);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="356"
+    style="fill: rgb(238, 0, 95);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="356"
+    style="fill: rgb(255, 0, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="356"
+    style="fill: rgb(255, 17, 112);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="356"
+    style="fill: rgb(255, 34, 122);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="356"
+    style="fill: rgb(255, 51, 133);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="356"
+    style="fill: rgb(255, 68, 143);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="356"
+    style="fill: rgb(255, 85, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="356"
+    style="fill: rgb(255, 102, 163);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="356"
+    style="fill: rgb(255, 119, 173);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="356"
+    style="fill: rgb(255, 136, 184);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="356"
+    style="fill: rgb(255, 153, 194);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="356"
+    style="fill: rgb(255, 170, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="356"
+    style="fill: rgb(255, 187, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="356"
+    style="fill: rgb(255, 204, 224);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="356.5"
+    style="fill: rgb(255, 221, 235);"
+
+    stroke="rgb(255, 204, 224)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="356.5"
+    style="fill: rgb(255, 238, 245);"
+
+    stroke="rgb(255, 204, 224)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="356.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 204, 224)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="368"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="368"
+    style="fill: rgb(17, 0, 3);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="368"
+    style="fill: rgb(34, 0, 7);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="368"
+    style="fill: rgb(51, 0, 10);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="368"
+    style="fill: rgb(68, 0, 14);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="368"
+    style="fill: rgb(85, 0, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="368"
+    style="fill: rgb(102, 0, 20);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="368"
+    style="fill: rgb(119, 0, 24);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="368"
+    style="fill: rgb(136, 0, 27);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="368"
+    style="fill: rgb(153, 0, 31);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="368"
+    style="fill: rgb(170, 0, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="368"
+    style="fill: rgb(187, 0, 37);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="368"
+    style="fill: rgb(204, 0, 41);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="368"
+    style="fill: rgb(221, 0, 44);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="368"
+    style="fill: rgb(238, 0, 48);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="368"
+    style="fill: rgb(255, 0, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="368"
+    style="fill: rgb(255, 17, 65);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="368"
+    style="fill: rgb(255, 34, 78);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="368"
+    style="fill: rgb(255, 51, 92);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="368"
+    style="fill: rgb(255, 68, 105);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="368"
+    style="fill: rgb(255, 85, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="368"
+    style="fill: rgb(255, 102, 133);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="368"
+    style="fill: rgb(255, 119, 146);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="368"
+    style="fill: rgb(255, 136, 160);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="368"
+    style="fill: rgb(255, 153, 173);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="368"
+    style="fill: rgb(255, 170, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="368"
+    style="fill: rgb(255, 187, 201);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="368"
+    style="fill: rgb(255, 204, 214);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="368.5"
+    style="fill: rgb(255, 221, 228);"
+
+    stroke="rgb(255, 204, 214)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="368.5"
+    style="fill: rgb(255, 238, 241);"
+
+    stroke="rgb(255, 204, 214)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="368.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 204, 214)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="20"
+    y="380"
+    style="fill: rgb(0, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="32"
+    y="380"
+    style="fill: rgb(17, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="44"
+    y="380"
+    style="fill: rgb(34, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="56"
+    y="380"
+    style="fill: rgb(51, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="68"
+    y="380"
+    style="fill: rgb(68, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="80"
+    y="380"
+    style="fill: rgb(85, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="92"
+    y="380"
+    style="fill: rgb(102, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="104"
+    y="380"
+    style="fill: rgb(119, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="116"
+    y="380"
+    style="fill: rgb(136, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="128"
+    y="380"
+    style="fill: rgb(153, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="140"
+    y="380"
+    style="fill: rgb(170, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="152"
+    y="380"
+    style="fill: rgb(187, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="164"
+    y="380"
+    style="fill: rgb(204, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="176"
+    y="380"
+    style="fill: rgb(221, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="188"
+    y="380"
+    style="fill: rgb(238, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="200"
+    y="380"
+    style="fill: rgb(255, 0, 0);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="212"
+    y="380"
+    style="fill: rgb(255, 17, 17);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="224"
+    y="380"
+    style="fill: rgb(255, 34, 34);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="236"
+    y="380"
+    style="fill: rgb(255, 51, 51);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="248"
+    y="380"
+    style="fill: rgb(255, 68, 68);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="260"
+    y="380"
+    style="fill: rgb(255, 85, 85);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="272"
+    y="380"
+    style="fill: rgb(255, 102, 102);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="284"
+    y="380"
+    style="fill: rgb(255, 119, 119);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="296"
+    y="380"
+    style="fill: rgb(255, 136, 136);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="308"
+    y="380"
+    style="fill: rgb(255, 153, 153);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="320"
+    y="380"
+    style="fill: rgb(255, 170, 170);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="332"
+    y="380"
+    style="fill: rgb(255, 187, 187);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="344"
+    y="380"
+    style="fill: rgb(255, 204, 204);"
+
+    width="10"
+    height="10"
+  />
+
+  <rect
+    x="356.5"
+    y="380.5"
+    style="fill: rgb(255, 221, 221);"
+
+    stroke="rgb(255, 204, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="368.5"
+    y="380.5"
+    style="fill: rgb(255, 238, 238);"
+
+    stroke="rgb(255, 204, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+  <rect
+    x="380.5"
+    y="380.5"
+    style="fill: rgb(255, 255, 255);"
+
+    stroke="rgb(255, 204, 204)"
+    stroke-width="1"
+
+    width="9"
+    height="9"
+  />
+
+</svg>

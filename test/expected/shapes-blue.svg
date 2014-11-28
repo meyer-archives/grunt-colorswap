@@ -4,7 +4,7 @@
 	<!ENTITY st1 "fill:url(#SVGID_1_);">
 	<!ENTITY st2 "fill:#0000FF;">
 	<!ENTITY st3 "fill:#0000FF;">
-	<!ENTITY st4 "fill:#0000FF;">
+	<!ENTITY st4 "fill:#00F;">
 ]>
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400px" height="400px" viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 	<rect x="74" y="105" style="&st0;" width="97" height="97"/>
