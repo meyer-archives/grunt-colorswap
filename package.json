@@ -1,7 +1,7 @@
 {
   "name": "grunt-colorswap",
-  "description": "SOON",
-  "version": "0.1.0",
+  "description": "Find a string that looks like a color, modify it, then replace it.",
+  "version": "1.0.0",
   "homepage": "https://github.com/meyer/grunt-colorswap",
   "author": {
     "name": "Mike Meyer",

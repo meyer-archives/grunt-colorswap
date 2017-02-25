@@ -28,7 +28,7 @@ Available filters can be found in [/tasks/filters][filters].
 
 Filters have two required methods, `init` and `processColor`.
 
-The first method, `init`, validates instruction strings, and has only one parameter: the instruction string. An error should be thrown if the filter is called (`set …`), but the instruction string is something the filter doesn’t understand (`set hungry to true`).
+The first method, `init`, validates instruction strings, and has only one parameter: the instruction string. An error should be thrown if the filter is called (`set …`), but the instruction string is something the filter doesn’t understand (`set hungry to true`). This method is expected to return `true` if everything went alright.
 
 The second and last method, `processColor`, is what does the per-color manipulation. `processColor` receives one argument: a Chromath object representing the color to be modified. `processColor` is expected to return a Chromath object as well.
 
@@ -43,9 +43,9 @@ The second and last method, `processColor`, is what does the per-color manipulat
 ## TODOs
 
 - [ ] Friendlier instructions
-- [ ] with pictures
-- [ ] and maybe a few GIFs
-- [ ] and maybe some ASCII art
-- [ ] and maybe a few kitten pictures
-- [ ] or puppies maybe
+- [ ] …with pictures
 - [ ] Tests
+- [ ] Convert RGB to RGB and hex to hex instead of everything to hex
+
+## Shelved Ideas
+- **instructions.yaml/txt**: tasks can be dumped into a text file. Key-value kind of deal. Didn’t end up being important. Also, hex colors are read as comments in YAML.

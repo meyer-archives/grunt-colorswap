@@ -17,6 +17,7 @@ module.exports = (grunt) ->
 	multiTask = ->
 		options = @options(
 			# TODO: Probably need to be a bit better about matching weird spaces
+			# TODO: Use block regex format to make this more readable
 			regexes: [
 				/(rgb\((?:(?:[01]?\d?\d|2[0-4]\d|25[0-5])\,\s*?){2}(?:[01]?\d?\d|2[0-4]\d|25[0-5])\))/gi
 				/(#(?:[\dA-F]{3}){1,2})/gi
